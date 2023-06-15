@@ -73,6 +73,7 @@ function App() {
   // process letter input
   const verifyLetter = (letter) => {
     const normalizedLetter = letter.toLowerCase();
+    
 
     // check if letter has already been utilized
     if (
