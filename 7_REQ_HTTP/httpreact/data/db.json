@@ -14,16 +14,6 @@
       "id": 3,
       "name": "Boné aba reta",
       "price": 29.9
-    },
-    {
-      "name": "teste",
-      "price": "29.9",
-      "id": 4
-    },
-    {
-      "name": "Teclado",
-      "price": "110",
-      "id": 5
     }
   ]
 }
