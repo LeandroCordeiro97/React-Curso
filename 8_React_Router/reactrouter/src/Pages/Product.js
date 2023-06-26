@@ -19,6 +19,8 @@ return (
     {product && (<div>
       <h1>{product.name}</h1>
       <p>€{product.price}</p>
+       {/*6- Nested Routes*/}
+       <Link to = {`/products/${product.id}/info`}>Mais Informações</Link>
     </div>)}
     </div>
   )
